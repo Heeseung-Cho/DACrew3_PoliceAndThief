@@ -1,5 +1,5 @@
 # DACrew3_PoliceAndThief
-
+<img class="image" src="/image.jpg">
 본 포스팅은 데이콘 서포터즈 "데이크루 3기" 활동의 일환입니다.
 
 
