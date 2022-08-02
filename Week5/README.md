@@ -17,7 +17,8 @@
 
 - 드디어 우리의 목적인 GAN입니다!
 - 앞서 배운 내용들을 토대로 GAN이 어떻게 이미지를 생성해내는지 알아보도록 하겠습니다.
-- Paper: [Generative Adversarial Nets, Ian Goodfellow et al., NeurIPS, 2014](https://arxiv.org/abs/1406.2661)
+- Paper1: [Generative Adversarial Nets, Ian Goodfellow et al., NeurIPS, 2014](https://arxiv.org/abs/1406.2661)
+- Paper2: [NIPS 2016 Tutorial: Generative Adversarial Networks, Ian Goodfellow, NeurIPS, 2016](https://arxiv.org/abs/1701.00160)
 - Pytorch[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aYxmv7_cOhot27v1d5MjHZDa00LtnW06?usp=sharing)
 
 제시된 논문들을 바탕으로 코드를 이해하고 포스팅 내용을 작성해 주시면 되겠습니다.
